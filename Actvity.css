@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color:white;
+}
+
+.header{
+    width: 100%;
+    background: orange;
+    height: 150px;
+    float: left;
+}
+
