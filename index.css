@@ -109,6 +109,7 @@ body {
     max-height: 100vh;
     object-fit: cover;
     z-index: -1;
+    background-color:blu
 
   }
 
@@ -116,7 +117,7 @@ body {
 .content {
     position: fixed;
     bottom: 0;
-    background-color: rgba(134, 172, 218, 0.8);
+    background-color: red;
     color: #f1f1f1;
     width: 100%;
     padding: 20px;
@@ -138,5 +139,5 @@ body {
 
 }
 .image{
-  width: 200px;
+  width: 100px;
 }
